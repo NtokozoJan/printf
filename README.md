@@ -1,7 +1,7 @@
 C - printf team project
 
 /**
- * NtokozoMahwayi
+ * NtokozoMahwayi project
  */
 
 Group Project:
