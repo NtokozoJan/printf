@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * NtokozoMahwayi
+ * NtokozoMahwayi project
  */
 
 /**
