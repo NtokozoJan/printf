@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * NtokozoJan
+ * NtokozoMahwayi project
  */
 
 /**
