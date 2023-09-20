@@ -5,7 +5,7 @@
 #include <unistd.h>
 
 /**
- * NtokozoMahwayi
+ * NtokozoMahwayi project
  */
 
 #define UNUSED(x) (void)(x)
